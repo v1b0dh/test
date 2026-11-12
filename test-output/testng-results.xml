@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-11-12T11:54:33 IST" name="Default suite" finished-at="2026-11-12T11:54:38 IST" duration-ms="4699">
+    <groups>
+    </groups>
+    <test started-at="2026-11-12T11:54:33 IST" name="Default test" finished-at="2026-11-12T11:54:38 IST" duration-ms="4699">
+      <class name="ContactFormTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:ContactFormTest@18078bef]" started-at="2026-11-12T11:54:33 IST" name="setUp" finished-at="2026-11-12T11:54:34 IST" duration-ms="977" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyBackgroundColor()[pri:0, instance:ContactFormTest@18078bef]" started-at="2026-11-12T11:54:34 IST" name="verifyBackgroundColor" finished-at="2026-11-12T11:54:34 IST" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBackgroundColor -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ContactFormTest@18078bef]" started-at="2026-11-12T11:54:34 IST" name="tearDown" finished-at="2026-11-12T11:54:34 IST" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:ContactFormTest@18078bef]" started-at="2026-11-12T11:54:34 IST" name="setUp" finished-at="2026-11-12T11:54:35 IST" duration-ms="793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyEmailField()[pri:0, instance:ContactFormTest@18078bef]" started-at="2026-11-12T11:54:35 IST" name="verifyEmailField" finished-at="2026-11-12T11:54:35 IST" duration-ms="65" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmailField -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ContactFormTest@18078bef]" started-at="2026-11-12T11:54:35 IST" name="tearDown" finished-at="2026-11-12T11:54:35 IST" duration-ms="100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:ContactFormTest@18078bef]" started-at="2026-11-12T11:54:35 IST" name="setUp" finished-at="2026-11-12T11:54:36 IST" duration-ms="701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyFormSubmission()[pri:0, instance:ContactFormTest@18078bef]" started-at="2026-11-12T11:54:36 IST" name="verifyFormSubmission" finished-at="2026-11-12T11:54:36 IST" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFormSubmission -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ContactFormTest@18078bef]" started-at="2026-11-12T11:54:36 IST" name="tearDown" finished-at="2026-11-12T11:54:36 IST" duration-ms="85" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:ContactFormTest@18078bef]" started-at="2026-11-12T11:54:36 IST" name="setUp" finished-at="2026-11-12T11:54:37 IST" duration-ms="646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyMessageField()[pri:0, instance:ContactFormTest@18078bef]" started-at="2026-11-12T11:54:37 IST" name="verifyMessageField" finished-at="2026-11-12T11:54:37 IST" duration-ms="69" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMessageField -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ContactFormTest@18078bef]" started-at="2026-11-12T11:54:37 IST" name="tearDown" finished-at="2026-11-12T11:54:37 IST" duration-ms="96" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:ContactFormTest@18078bef]" started-at="2026-11-12T11:54:37 IST" name="setUp" finished-at="2026-11-12T11:54:38 IST" duration-ms="654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyNameField()[pri:0, instance:ContactFormTest@18078bef]" started-at="2026-11-12T11:54:38 IST" name="verifyNameField" finished-at="2026-11-12T11:54:38 IST" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNameField -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ContactFormTest@18078bef]" started-at="2026-11-12T11:54:38 IST" name="tearDown" finished-at="2026-11-12T11:54:38 IST" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ContactFormTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
